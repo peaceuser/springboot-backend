@@ -16,7 +16,7 @@ public class SpringBootJpaH2Application {
 		logger.info("Application Started...");
 	}
 	public static void main(String[] args) {
-		logger.info("Application executed...");
+		logger.info("Application executed..  .");
 		SpringApplication.run(SpringBootJpaH2Application.class, args);
 	}
 
